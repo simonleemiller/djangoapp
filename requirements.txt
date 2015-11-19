@@ -5,3 +5,4 @@ pip-tools==1.1.6
 six==1.10.0
 virtualenv==13.1.2
 wheel==0.26.0
+gunicron==19.3.0

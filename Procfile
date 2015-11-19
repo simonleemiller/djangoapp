@@ -1,1 +1,1 @@
-web: gunicorn djangoapp.wsgi
+web: gunicorn djangoapp.wsgi -b 0.0.0.0:$PORT
